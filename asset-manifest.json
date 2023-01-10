@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/card-framer/static/css/main.e372b161.css",
+    "main.js": "/card-framer/static/js/main.97a5bc06.js",
+    "static/media/flower.png": "/card-framer/static/media/flower.6055acfa3b092a10690d.png",
+    "static/media/woman.png": "/card-framer/static/media/woman.42d5faef44f8ea7809b2.png",
+    "index.html": "/card-framer/index.html",
+    "main.e372b161.css.map": "/card-framer/static/css/main.e372b161.css.map",
+    "main.97a5bc06.js.map": "/card-framer/static/js/main.97a5bc06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e372b161.css",
+    "static/js/main.97a5bc06.js"
+  ]
+}
